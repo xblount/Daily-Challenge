@@ -1,2 +1,2 @@
 # Daily-Challenge
-Reddit Project Solutions
+Challenge Solutions
